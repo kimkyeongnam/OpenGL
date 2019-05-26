@@ -1,4 +1,5 @@
 # OpenGL
+commit 내용이 **element header**인 파일을 같이 다운받아 사용하시길 
 
 ### Assignment 1 [[link]](https://github.com/kimkyeongnam/STUDY_OpenGL/tree/master/Assignment1)
 
